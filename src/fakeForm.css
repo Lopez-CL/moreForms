@@ -1,7 +1,12 @@
 .card-body{
     background-color: lightgray !important;
+    margin-bottom: 10px !important;
 }
-form {
+form, label {
     width: 25%;
     margin-top: 2%;
+}
+
+input {
+    height: 15px;
 }
